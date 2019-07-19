@@ -5,6 +5,6 @@ css: ["contact.css"]
 ---
 <div class="col s12">
   <div class="icontain">
-    <iframe src="{https://hozzang.tistory.com}">Loading...</iframe>
+    <iframe src={"https://hozzang.tistory.com"}>Loading...</iframe>
   </div>
 </div>
