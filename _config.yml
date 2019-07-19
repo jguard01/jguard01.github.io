@@ -19,8 +19,8 @@ description: > # this means to ignore newlines until "baseurl:"
 baseurl: "/"
 url: "https://jguard01.github.io"
 permalink: /:year/:month/:day/:title
-repository: ShawnTeoh/matjek
-paginate: 5
+repository: jguard01/jguard01.github.io
+paginate: 1
 
 # MatJek specific configurations
 github_profile: "https://github.com/jguard01"
